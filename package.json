@@ -1,0 +1,15 @@
+{
+  "name": "b2bserver",
+  "version": "1.0.0",
+  "description": "server to Verum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodejs app.js"
+  },
+  "author": "Ramiro Blázquez",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
