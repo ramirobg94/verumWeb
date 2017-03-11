@@ -1,11 +1,11 @@
 {
-  "name": "b2bserver",
+  "name": "verumServer",
   "version": "1.0.0",
   "description": "server to Verum",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodejs app.js"
+    "start": "node app.js"
   },
   "author": "Ramiro Blázquez y Jose Antonio González",
   "license": "MIT",
